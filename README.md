@@ -30,5 +30,7 @@ I've also retained the 'dendad_trainer' Twitter account, so do link up with me t
 If you have ideas of 'canned' AWS demos you would like to see, do let me know, and I'll see what I can do !
 
 God bless
+
 Dennis Adams
+
 aka 'dendad"
