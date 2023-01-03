@@ -19,7 +19,7 @@ Welcome to my GitHub repository.
 
 I started working in IT in the early 1980s, finally retiring in 2022. Although retired, I'm currently working as a part-time Visiting Lecturer at the University of Hertfordshire. 
 
-From 2017 until 2022, I worked as a Senior Technical Instructor for Amazon Web Services (AWS), and was reponsible for building a number of example AWS demos, to demonstate the AWS managed services. Upon retirement, I have continued to take an interest in AWS services. 
+From 2017 until 2022, I worked as a Senior Technical Instructor for Amazon Web Services (AWS), and was reponsible for building a number of example AWS demos, to demonstrate the AWS managed services. Upon retirement, I have continued to take an interest in AWS services. 
 
 These repositories contain various artifacts to enable trainers, or students, to easily and cost-effectively demonstrate how AWS services work. In many cases, the repos contain master CloudFormation templates which means that demos can be easily built up and then torn down using Cloudformation.
 
